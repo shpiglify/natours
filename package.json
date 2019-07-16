@@ -1,0 +1,19 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "node-sass sass/main.scss dist/css/style.css -w",
+    "deploy":"gh-pages -d dist"
+  },
+  "author": "shpiglify",
+  "license": "ISC",
+  "homepage": "https://shpiglify.github.io/natours",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
