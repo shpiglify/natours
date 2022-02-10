@@ -11,7 +11,7 @@
   "license": "ISC",
   "homepage": "https://shpiglify.github.io/natours",
   "devDependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "gh-pages": "^2.0.1"
